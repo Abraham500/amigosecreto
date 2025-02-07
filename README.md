@@ -1,2 +1,0 @@
-# amigosecreto
-amigo secreto
